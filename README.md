@@ -1,4 +1,4 @@
-![logo](https://github.com/niikhiljha/niikhiljha/blob/main/Nikhil%20jha.png)
+![logo](https://github.com/niikhiljha/niikhiljha/blob/main/Nikhil%20jha.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Jha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
